@@ -13,7 +13,7 @@ public class Main {
         Estatica estatica4 = new Estatica();
         estatica4.incrementar();
         Estatica estatica5 = new Estatica();
-        estatica5.incrementar();
+        estatica5.sumar();
 
         estatica1.incrementar();
     }
